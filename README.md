@@ -8,7 +8,18 @@ M.S. in Cyberspace Security @ Beijing University of Posts and Telecommunications
 
 #### CVEs
 
-CVE-2024-11630, CVE-2024-11651, CVE-2024-11652, CVE-2024-11653, CVE-2024-11654, CVE-2024-11655, CVE-2024-11656, CVE-2024-11657, CVE-2024-11658, CVE-2024-11659
+| CVE ID | CVSS | Description |
+|--------|------|-------------|
+| [CVE-2024-11630](https://www.cve.org/CVERecord?id=CVE-2024-11630) | 6.9 | OS Command Injection in E-Lins H685/H700/H720/H750/H820/H900 |
+| [CVE-2024-11651](https://www.cve.org/CVERecord?id=CVE-2024-11651) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (wifi_schedule) |
+| [CVE-2024-11652](https://www.cve.org/CVERecord?id=CVE-2024-11652) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_ping) |
+| [CVE-2024-11653](https://www.cve.org/CVERecord?id=CVE-2024-11653) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_traceroute) |
+| [CVE-2024-11654](https://www.cve.org/CVERecord?id=CVE-2024-11654) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_traceroute6) |
+| [CVE-2024-11655](https://www.cve.org/CVERecord?id=CVE-2024-11655) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_pinginterface) |
+| [CVE-2024-11656](https://www.cve.org/CVERecord?id=CVE-2024-11656) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_ping6) |
+| [CVE-2024-11657](https://www.cve.org/CVERecord?id=CVE-2024-11657) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_nslookup) |
+| [CVE-2024-11658](https://www.cve.org/CVERecord?id=CVE-2024-11658) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_tracert) |
+| [CVE-2024-11659](https://www.cve.org/CVERecord?id=CVE-2024-11659) | 5.1 | Command Injection in EnGenius ENH1350EXT/ENS500-AC/ENS620EXT (diag_arp) |
 
 #### Awards
 
