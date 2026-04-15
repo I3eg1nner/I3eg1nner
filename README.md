@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>I3eg1nner</b> · 北京邮电大学 · 网络与信息安全
+  <b>I3eg1nner</b> · Beijing University of Posts and Telecommunications · Cyberspace Security
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ```text
  ╔══════════════════════════════════════════════════════════════╗
- ║  M.S. in Cyberspace Security @ BUPT (北京邮电大学)            ║
+ ║  M.S. in Cyberspace Security @ BUPT                          ║
  ║  Focus: Supply Chain Security / Hardware Security / AI Safety ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -59,10 +59,10 @@
 
 | Award | Rank |
 |:------|:----:|
-| **DataCon 2025** 大数据安全分析竞赛 · 软件供应链安全赛道 | **Champion** |
-| **"万众一芯" 黑客马拉松** · 双赛道 | **Champion** |
-| 第十四届全国大学生信息安全竞赛 (CISCN) | **Second Prize** |
-| 中国高校计算机大赛 · 网络技术挑战赛 · 华中赛区 | **Second Prize** |
+| **DataCon 2025** Big Data Security Analytics · Software Supply Chain Security Track | **Champion** |
+| **"All-for-One-Chip" Hackathon** · Dual Track | **Champion** |
+| 14th National College Student Information Security Contest (CISCN) | **Second Prize** |
+| China Collegiate Computing Contest · Network Technology Challenge · Central China Region | **Second Prize** |
 | Mathematical Contest in Modeling (MCM/ICM) | **Meritorious Winner** |
 
 ---
