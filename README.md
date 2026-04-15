@@ -2,7 +2,7 @@
 
 M.S. in Cyberspace Security from Beijing University of Posts and Telecommunications (BUPT)
 
-Security Engineer @ X
+Engineer @ ISCAS
 
 **Research Interests:** Supply Chain Security, Hardware Security, AI Security
 
@@ -19,7 +19,3 @@ CVE-2024-11630, CVE-2024-11651, CVE-2024-11652, CVE-2024-11653, CVE-2024-11654, 
 - 🥈 **2nd Prize** — 14th National College Student Information Security Contest (CISCN)
 - 🥈 **2nd Prize** — China Collegiate Computing Contest · Network Technology Challenge
 - 🏅 **Meritorious Winner** — MCM/ICM Mathematical Modeling Contest
-
-#### Tech Stack
-
-Python, Go, Rust, C/C++, RISC-V, Linux, Docker
