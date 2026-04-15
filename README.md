@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Security+Researcher;%F0%9F%9B%A1%EF%B8%8F+Supply+Chain+%7C+Hardware+%7C+AI+Security;%F0%9F%8E%93+Graduate+Student+%40+BUPT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Security+Researcher;%F0%9F%9B%A1%EF%B8%8F+Supply+Chain+%7C+Hardware+%7C+AI+Security;%F0%9F%8F%A2+Security+Engineer+%40+X" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>I3eg1nner</b> · Beijing University of Posts and Telecommunications · Cyberspace Security
+  <b>I3eg1nner</b> · M.S. from BUPT · Security Engineer @ X
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ```text
  ╔══════════════════════════════════════════════════════════════╗
- ║  Graduate Student in Cyberspace Security @ BUPT                          ║
+ ║  M.S. in Cyberspace Security from BUPT · Security Engineer @ X            ║
  ║  Focus: Supply Chain Security / Hardware Security / AI Safety ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -57,13 +57,13 @@
 
 ## Awards & Honors
 
-| Award | Rank |
-|:------|:----:|
-| **DataCon 2025** Big Data Security Analytics · Software Supply Chain Security Track | **Champion** |
-| **"All-for-One-Chip" Hackathon** · Dual Track | **Champion** |
-| 14th National College Student Information Security Contest (CISCN) | **Second Prize** |
-| China Collegiate Computing Contest · Network Technology Challenge · Central China Region | **Second Prize** |
-| Mathematical Contest in Modeling (MCM/ICM) | **Meritorious Winner** |
+| | Award | Rank |
+|:--|:------|:----:|
+| 🏆 | **DataCon 2025** Big Data Security Analytics · Software Supply Chain Security Track | **Champion** |
+| 🏆 | **"All-for-One-Chip" Hackathon** · Dual Track | **Champion** |
+| 🥈 | 14th National College Student Information Security Contest (CISCN) | **Second Prize** |
+| 🥈 | China Collegiate Computing Contest · Network Technology Challenge · Central China Region | **Second Prize** |
+| 🏅 | Mathematical Contest in Modeling (MCM/ICM) | **Meritorious Winner** |
 
 ---
 
