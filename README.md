@@ -7,11 +7,6 @@ Engineer @ ISCAS
 **Research Interests:** Supply Chain Security, Hardware Security, AI Security
 
 ---
-
-#### CVEs
-
-CVE-2024-11630, CVE-2024-11651, CVE-2024-11652, CVE-2024-11653, CVE-2024-11654, CVE-2024-11655, CVE-2024-11656, CVE-2024-11657, CVE-2024-11658, CVE-2024-11659
-
 #### Awards
 
 - 🏆 **Champion** — DataCon 2025 · Software Supply Chain Security Track
